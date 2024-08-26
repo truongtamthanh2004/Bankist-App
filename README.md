@@ -8,4 +8,6 @@ There are 4 users to login:
 2/ jd   |   2222
 3/ stw  |   3333 
 4/ ss   |   4444
-Website link: https://66c5b28dee22f31ad789d067--gilded-pithivier-68d197.netlify.app/
+Website link:
+Version 1:  https://66c5b28dee22f31ad789d067--gilded-pithivier-68d197.netlify.app/
+Version 2: https://66cc60e554ef9a17a2ff3324--comforting-croquembouche-9b1900.netlify.app/
